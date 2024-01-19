@@ -1,0 +1,122 @@
+body{
+    font-family: "Poppins", sans-serif;
+    margin: 50px 50px 50px 50px;
+    display: flex;
+    flex-direction: column;
+    background-color: #FF004D;
+}
+#birthday-pic{
+    display: flex;
+    width: 100%;
+    height: 100%; 
+    border-radius: 40px;
+    border: 2px solid black;
+    display: flex; 
+    float: right;
+ 
+}
+.parent{
+    flex: 1;
+    display: flex;
+    background-color: #1D2B53;
+    border-radius: 40px;
+    position: relative;
+    padding: 30px;
+    flex-direction: column;
+}
+.text-design{
+    margin-top: 100px;
+    font-size: 2rem;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Salsa', cursive;
+    color: #FF004D;
+    text-align: center;
+}
+.name-design{
+    margin-top: 10px;
+    text-align: center;
+}
+.tags{
+    text-align: center;
+    
+}
+.credits{
+    margin-top: 50px;
+    text-align: center;
+    color: #FF004D;
+}
+.child{
+   float: right; 
+   display: block;
+   width: 100%;
+   border-radius: 40px;
+   background-color: #7E2553;
+}
+.first-child{
+    display: block;
+    margin-top: 50px;
+}
+.first-grandchild{
+    display: block;
+    width: 100%;
+    float: right;
+    background-color: #FAEF5D;
+    border-radius: 40px;
+}
+.japan-map{
+    width: 100%;
+    height: 100%;
+    float: right;
+    border-radius: 40px;
+    border: 2px solid black;
+    display: flex; 
+}
+.japan-highway{
+    width: 100%;
+    height: 100%;  
+    float: right;
+    border-radius: 40px;
+    border: 2px solid black;
+    display: flex;
+}
+.second-child{
+    display: block;
+    width: 100%;
+    margin-top: 50px;
+}
+.second-grandchild{
+    display: block;
+    width: 100%;
+    float: left;
+    background-color: #52D3D8;
+    border-radius: 40px;
+}
+.japan-travel{
+    width: 900px;
+    height: 500px;
+    float: right;
+}
+.japan-text{
+    color: #FF004D;
+    margin-top: 50px;
+    font-size: 2rem;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Salsa', cursive;
+    color: #FF004D;
+    text-align: center;
+    
+}
+
+.paragraph{
+    font-size: 1rem; 
+}
+footer{
+    text-align: center;
+    color: midnightblue;
+    
+}
+
